@@ -1,4 +1,4 @@
-## robot-api-testing
+## Robot-api-testing
 
 ## Teste realizado utilizando o serverest.
 
